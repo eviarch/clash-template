@@ -31,7 +31,7 @@ external-controller: 127.0.0.1:9090
 proxies:
  - name: "v2ray"
    type: vmess
-   server: 108.174.194.182
+   server: your.server.ip.address
    port: 8080
    uuid: bd01cb02-9f9e-49b8-9aa9-93a2f4cf20bf
    alterId: 0
